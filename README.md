@@ -1,6 +1,6 @@
 # User Management System
 
-A clean PHP-based user management dashboard for managing employees, departments, roles, and admin profiles. This project was built to run locally with XAMPP and MySQL and includes login, CRUD operations, search/filtering, image uploads, and AJAX-based user listing.
+A clean PHP OOP-based user management dashboard for managing employees, departments, roles, and admin profiles. This project was built to run locally with XAMPP and MySQL and includes login, CRUD operations, search/filtering, image uploads, and AJAX-based user listing.
 
 ## Project Start Date
 
@@ -53,9 +53,10 @@ The app provides a dashboard where an admin can:
 
 ## Tech Stack
 
-- PHP
+- PHP (Object-Oriented Programming)
 - MySQL
 - JavaScript
+-ajax
 - HTML/CSS
 - XAMPP
 
